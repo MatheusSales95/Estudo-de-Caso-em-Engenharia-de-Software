@@ -42,47 +42,8 @@ Os requisitos não funcionais especificam critérios que podem ser usados para j
 - **Portabilidade:** O sistema deve ser compatível com diferentes navegadores web e dispositivos (desktop, tablet, mobile).
 - **Integridade de Dados:** O sistema deve garantir a consistência e precisão dos dados, evitando duplicidade de horários e perda de registros.
 
-### 2.3. Priorização dos Requisitos
 
-A priorização dos requisitos foi realizada utilizando a metodologia MoSCoW (Must-have, Should-have, Could-have, Won't-have), focando na entrega de uma primeira versão funcional e valiosa do sistema.
-
-#### Requisitos Funcionais Priorizados:
-
-**Must-have (Essenciais para a primeira versão):**
-- Agendamento de consultas médicas (paciente, médico, recepcionista)
-- Visualização de horários disponíveis (paciente, médico, recepcionista)
-- Cancelamento de consultas (paciente, médico, recepcionista)
-- Cadastro de pacientes (recepcionista)
-- Autenticação de usuários (paciente, médico, recepcionista)
-
-**Should-have (Importantes, mas podem ser implementados em versões futuras):**
-- Edição de agendamentos (recepcionista)
-- Cadastro de médicos (recepcionista)
-- Busca por agendamentos (recepcionista, médico, paciente)
-- Notificações de agendamento (paciente, médico)
-
-**Could-have (Desejáveis, mas de menor prioridade):**
-- Gerenciamento de especialidades médicas (recepcionista)
-- Geração de relatórios de agendamento (recepcionista)
-
-#### Requisitos Não Funcionais Priorizados:
-
-**Must-have (Essenciais para a primeira versão):**
-- **Segurança:** O sistema deve garantir a confidencialidade e integridade dos dados dos pacientes e médicos, com controle de acesso baseado em perfis de usuário.
-- **Usabilidade:** A interface do usuário deve ser intuitiva e fácil de usar para todos os tipos de usuários (pacientes, médicos e recepcionistas).
-- **Integridade de Dados:** O sistema deve garantir a consistência e precisão dos dados, evitando duplicidade de horários e perda de registros.
-
-**Should-have (Importantes, mas podem ser implementados em versões futuras):**
-- **Desempenho:** O sistema deve ser capaz de lidar com um grande volume de agendamentos simultâneos sem degradação perceptível de desempenho.
-- **Disponibilidade:** O sistema deve estar disponível 24 horas por dia, 7 dias por semana, com tempo de inatividade mínimo.
-- **Confiabilidade:** O sistema deve ser robusto e tolerante a falhas, garantindo que os dados não sejam perdidos em caso de problemas.
-
-**Could-have (Desejáveis, mas de menor prioridade):**
-- **Escalabilidade:** O sistema deve ser capaz de escalar para suportar um aumento futuro no número de usuários e agendamentos.
-- **Manutenibilidade:** O código do sistema deve ser bem documentado e fácil de manter e modificar.
-- **Portabilidade:** O sistema deve ser compatível com diferentes navegadores web e dispositivos (desktop, tablet, mobile).
-
-### 2.4. Necessidades dos Usuários
+### 2.3. Necessidades dos Usuários
 
 A compreensão das necessidades de cada perfil de usuário é fundamental para o desenvolvimento de um sistema centrado no usuário. As principais necessidades identificadas são:
 
