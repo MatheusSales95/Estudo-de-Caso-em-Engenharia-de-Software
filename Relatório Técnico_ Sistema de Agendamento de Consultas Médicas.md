@@ -161,7 +161,8 @@ A modelagem do sistema é uma etapa crucial para visualizar a arquitetura e o co
 
 O Diagrama de Casos de Uso representa a funcionalidade do sistema do ponto de vista do usuário, mostrando os atores (usuários ou outros sistemas que interagem com o sistema) e os casos de uso (funções que o sistema executa). Ele é fundamental para entender o escopo do sistema e como os diferentes usuários interagem com ele.
 
-![Diagrama de Casos de Uso](https://private-us-east-1.manuscdn.com/sessionFile/pzZIAnZrjqX8BFcUID9SYs/sandbox/aqDI53yOy4zkekYVY5HdsS-images_1757424804524_na1fn_L2hvbWUvdWJ1bnR1L3VzZV9jYXNlX2RpYWdyYW0.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvcHpaSUFuWnJqcVg4QkZjVUlEOVNZcy9zYW5kYm94L2FxREk1M3lPeTR6a2VrWVZZNUhkc1MtaW1hZ2VzXzE3NTc0MjQ4MDQ1MjRfbmExZm5fTDJodmJXVXZkV0oxYm5SMUwzVnpaVjlqWVhObFgyUnBZV2R5WVcwLnBuZyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5ODc2MTYwMH19fV19&Key-Pair-Id=K2HSFNDJXOU9YS&Signature=mtIgJrt31muEv6sU~dS~mJwhBrO6OH44EqDv3PTshtf8OkKWM5DL74Bfe1tebSyUfSkfoeK3-W-NGL9eszjhMuatIIhyepquAvlwPUv969lAot7YjapJ8LfqmRW-pX7srTzSvQr7aJOCSMkse2FVCKMHTjlGzcX4492wztVd~LSDm~8IAhKghuo~iypo6iwWIcIUPAmw2iactoR2UmymSG1zUtOeBLfgTtpR1weTaOtYhvFSrAy6u7dJJXqgrvwgpkbw49KFFL8QJW5yCuj6nWdR1NU4NPTNgGoqUxUhja5EjlnJ9oF2A5fAU9XP4EqIh9EkpEUqhQku6e8Fb07qoA__)
+![Diagrama de Casos de Uso]<img width="525" height="717" alt="image" src="https://github.com/user-attachments/assets/5e00d8c4-39f9-44e7-af22-daa830e0deb2" />
+)
 
 #### Descrição dos Casos de Uso
 
