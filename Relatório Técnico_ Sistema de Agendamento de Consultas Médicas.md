@@ -161,8 +161,8 @@ A modelagem do sistema é uma etapa crucial para visualizar a arquitetura e o co
 
 O Diagrama de Casos de Uso representa a funcionalidade do sistema do ponto de vista do usuário, mostrando os atores (usuários ou outros sistemas que interagem com o sistema) e os casos de uso (funções que o sistema executa). Ele é fundamental para entender o escopo do sistema e como os diferentes usuários interagem com ele.
 
-![Diagrama de Casos de Uso]<img width="525" height="717" alt="image" src="https://github.com/user-attachments/assets/5e00d8c4-39f9-44e7-af22-daa830e0deb2" />
-)
+<img width="525" height="717" alt="image" src="https://github.com/user-attachments/assets/5e00d8c4-39f9-44e7-af22-daa830e0deb2" />
+
 
 #### Descrição dos Casos de Uso
 
@@ -309,14 +309,13 @@ As descrições textuais detalham o fluxo de eventos para cada caso de uso, incl
 
 O Diagrama de Classes é uma representação estática da estrutura do sistema, mostrando as classes, seus atributos, métodos e os relacionamentos entre elas. Ele serve como um blueprint para a implementação do banco de dados e da lógica de negócios.
 
-![Diagrama de Classes](https://private-us-east-1.manuscdn.com/sessionFile/pzZIAnZrjqX8BFcUID9SYs/sandbox/aqDI53yOy4zkekYVY5HdsS-images_1757424804526_na1fn_L2hvbWUvdWJ1bnR1L2NsYXNzX2RpYWdyYW0.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvcHpaSUFuWnJqcVg4QkZjVUlEOVNZcy9zYW5kYm94L2FxREk1M3lPeTR6a2VrWVZZNUhkc1MtaW1hZ2VzXzE3NTc0MjQ4MDQ1MjZfbmExZm5fTDJodmJXVXZkV0oxYm5SMUwyTnNZWE56WDJScFlXZHlZVzAucG5nIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk4NzYxNjAwfX19XX0_&Key-Pair-Id=K2HSFNDJXOU9YS&Signature=ZSYwq0ORInHhppmpnOp~BQzAxBTQwGTGeQ0sJNs1N92OB1TtL4K8WVUiUmWitrXud8Wcaq1udaGtRPpJQOdpoeia4KVjAamuMV8UJ8IypMuz7fA1qyQKSQ1wNwKpQk7xCNkpTR7Av1HPgz1cAxXNUf3kVmzQw3gCNgChSZmnG6V4tJZVYHFEcwCFKFIyQCjOpLqAgg485QzAKz3E9oHERD58F5ApFACApwKSOn5cF8QPRtVcc9g2mPFwFQOEsMJp8NWDqb04mbOpcMmM1NMqdxj8nysqJGEfoZdo63j7YXdvsrEQSno-KuSYsaHi9M1rkX1h0E6e~EU~tGTyFUSiaw__)
+[Diagrama de Classes]
 
 ### 4.3. Diagrama de Sequência
 
 O Diagrama de Sequência ilustra a interação entre os objetos do sistema em uma ordem temporal, mostrando a sequência de mensagens trocadas para realizar uma funcionalidade específica. Abaixo, um exemplo para o caso de uso "Agendar Consulta".
 
-![Diagrama de Sequência - Agendar Consulta](https://private-us-east-1.manuscdn.com/sessionFile/pzZIAnZrjqX8BFcUID9SYs/sandbox/aqDI53yOy4zkekYVY5HdsS-images_1757424804527_na1fn_L2hvbWUvdWJ1bnR1L3NlcXVlbmNlX2RpYWdyYW1fYWdlbmRhcl9jb25zdWx0YQ.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvcHpaSUFuWnJqcVg4QkZjVUlEOVNZcy9zYW5kYm94L2FxREk1M3lPeTR6a2VrWVZZNUhkc1MtaW1hZ2VzXzE3NTc0MjQ4MDQ1MjdfbmExZm5fTDJodmJXVXZkV0oxYm5SMUwzTmxjWFZsYm1ObFgyUnBZV2R5WVcxZllXZGxibVJoY2w5amIyNXpkV3gwWVEucG5nIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk4NzYxNjAwfX19XX0_&Key-Pair-Id=K2HSFNDJXOU9YS&Signature=vz~UYDLM9Js~cdUup6LwJhaZPk-zxxbiK4IlLAa2sf7uZllq0BFOrxUQ15iln6PCNTJctWsW8jU9uxvCHWSLUxRqOS7-MdC2WW0n5fiqIajg5pRT77wiksY88mGRTNSq7gMKIt4B06KMXClbXrL3~Ox-kA~n4eUHktMQSaguIaNyeMqV8-nWVrpJBB00BriZN046N9BWkIQgjypaJS9noJ04SOuSvzwV-cks5KzQ02-RTXCp-DbSfIr8I0HaBQ-1DdtHHqHh~f7sJGLvFBeW-BhnB~6Gxlq132soJxApVigjjHUdmvncLz0gXqmE~QXKRrmaPzPIskKMG7aM~SPiyg__)
-
+[Diagrama de Sequência - Agendar Consulta]
 
 
 ## 5. Conclusão
